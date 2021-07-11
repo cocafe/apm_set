@@ -2,7 +2,7 @@
 
 ------
 
-core code in this project was basically token from awesome GUI based software **[CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo)**. 
+core code in this project was basically taken from awesome GUI based software **[CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo)**. 
 
 but you know what a cmdline utility should task for.
 
